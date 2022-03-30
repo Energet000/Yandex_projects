@@ -61,7 +61,7 @@
 
 Задачи проекта: Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности. Обучить модель классифицировать комментарии на позитивные и негативные.
 
-Стек: NLTK, Bert, LightGBM, pandas, deep learning, machine learning, sklearn, NLP
+Стек: NLTK, Bert, LightGBM, pandas, deep learning, machine learning, sklearn, NLP, word2vec, GloVe, FastText.
 
 11. Определение возраста по фото
 
